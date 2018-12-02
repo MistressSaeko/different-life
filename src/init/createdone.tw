@@ -1,0 +1,10 @@
+:: Complete Character Creation
+You are <<print $player1_name>> <<print $player2_name>>.
+You have <<print $parents>> and <<print $siblings>>.
+You come from a <<print $status>> family.
+You belong to the <<print $clique>> peer group.
+
+ Is this OK?
+ 
+[[Yes->StartGame]]
+[[No->Create your highschooler]]
