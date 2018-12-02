@@ -1,4 +1,4 @@
-# The Girl's Life
+# A Girl's Life
 ----
 
 Graphical and text based life sim game (Warning: 18+ content included!) made in Twine.
@@ -14,11 +14,13 @@ All Content is under sole ownership and Copyright 2018 Silky Softworks.
 
 *Releases will be made against the "Master" branch.*
 
-# Building The Girl's Life
+# Building A Girl's Life
 Everything for building the HTML is included in the repo.
 
 Windows users: Clone or download the repo and double click the "compile.bat" file.
+
 Mac users: ???
+
 Linux users: ???
 
 --------
@@ -42,7 +44,7 @@ Linux users: ???
 
 **Definitions:**
 
-"Project" shall be defined as the source code and/or modifications/alterations comprising the software package known as "The Girl's Life"; its assets, source code, Content, and all associated repositories, tools, configuration, and archives.
+"Project" shall be defined as the source code and/or modifications/alterations comprising the software package known as "A Girl's Life"; its assets, source code, Content, and all associated repositories, tools, configuration, and archives.
 
 "Binaries" refers to the executable produced from the source code and/or modified/altered source code.
 

@@ -1,9 +1,9 @@
-:: StoryInit
+:: StoryInit /* Stash variables here, in between the <<silently>><</silently>> commands. */
 <<silently>>
-<<set $purse to false>>
+<<set $purse = false>>
 
-<<set $physique to 4>>
-<<set $intelligence to 4>>
+<<set $physique = 4>>
+<<set $intelligence = 4>>
 <<set $looks = 4>>
 <<set $heels = 1>>
 <<set $crime = 0>>
@@ -33,12 +33,15 @@ Version 0.0.3
 
 
 :: UserStylesheet[stylesheet]
-
+#story
+{
+	font-family: Merienda;
+}
 
 
 
 :: Init
-<h1><center>The Girl's Life</center></h1>
+<h1><center>A Girl's Life</center></h1>
 <center>By: Silky Softworks</center>
 
 <b>WARNING! This game contains content not suitable for people under 18! If you are under 18, delete this game and never look back!</b>
@@ -62,6 +65,6 @@ Welcom to The Girl's Life!
 
 This is a life sim where you play the role of an 18 year old girl on her last year of high school. The choices you make during your last year of school will reflect who you become after graduation.
 
-Main developer: Mistress Saeko
+Main programmer: Mistress Saeko
 
 [[Proceed to character creation.->Create your highschooler]]
