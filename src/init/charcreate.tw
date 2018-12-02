@@ -1,23 +1,29 @@
 :: Create your highschooler
-You were born on the month of June in the year 2000. Your parents named you: <label><<textbox "$player_name" "Esther Jones">></label>
+You were born on the month of June in the year 2000. Your parents named you:
+First name: <label><<textbox "$player1_name" "Esther">></label>
+Last name: <label><<textbox "$player2_name" "Jones">></label>
 
 You were raised by: // (These options affect nothing. They're just for flavor.) //
-<label><<radiobutton "$parents" "2 Moms">>2 Mothers.</label> 
-<label><<radiobutton "$parents" "2 Dads">>2 Fathers.</label>
-<label><<radiobutton "$parents" "1 mom 1 dad">>Mother and Father.</label>
+<label><<radiobutton "$parents" "2 Moms">> 2 Mothers.</label> 
+<label><<radiobutton "$parents" "2 Dads">> 2 Fathers.</label>
+<label><<radiobutton "$parents" "1 mom 1 dad">> Mother and Father.</label>
 
 Were you parents
-<label><<radiobutton "$status" "rich">>Wealthy?</label> // (Start with more money and receive a higher allowance) //
-<label><<radiobutton "$status" "middle">>Middle class?</label> // (Start with normal money and receive a normal allowance) //
-<label><<radiobutton "$status" "poor">>Poor?</label> // (Start with no money and receive no allowance) //
+/* The choice made here will eventually affect difficulty. It's just flavor text for now, though. */
+<label><<radiobutton "$status" "rich">> Wealthy?</label> // (Start with more money and receive a higher allowance) //
+<label><<radiobutton "$status" "middle">> Middle class?</label> // (Start with normal money and receive a normal allowance) //
+<label><<radiobutton "$status" "poor">> Poor?</label> // (Start with no money and receive no allowance) //
 
 You have 2 siblings. They are: // (These options affect nothing. They're just for flavor.) //
-<label><<radiobutton "$siblings" "2 sisters">>2 Sisters.</label>
-<label><<radiobutton "$siblings" "2 brothers">>2 Brothers.</label>
-<label><<radiobutton "$siblings" "1 bro 1 sis">>A brother and sister.</label>
+<label><<radiobutton "$siblings" "2 sisters">> 2 Sisters.</label>
+<label><<radiobutton "$siblings" "2 brothers">> 2 Brothers.</label>
+<label><<radiobutton "$siblings" "1 bro 1 sis">> A brother and sister.</label>
 
 Today is August 6, 2018. You start your last year of highschool in 1 week. Which peer group do you belong to?
-<label><<radiobutton "$clique" "nerds">>The nerds and outcasts?</label> // (Starting intelligence is higher, but your physique and looks suffer. You're also popular with the teachers and other nerds.) //
-<label><<radiobutton "$clique" "jocks">>The jocks? // (Starting physique is higher, but your intelligence suffers while your looks don't change. Average relationship with teachers.)
-<label><<radiobutton "$clique" "popular">>Perhaps you are one of the popular kids? Outgoing personality that people are drawn to?</label> // (Starting looks are higher, intelligence is lower and you're not that popular with the teachers. Average relationship with the jocks.)
-<label><<radiobutton "$clique" "misfits">>Or perhaps you've fallen in with the thugs and gangbangers?</label> // ()
+/* The choice made here determines your appearance ingame. */
+<label><<radiobutton "$clique" "nerds">></label> The nerds and outcasts? // (Starting intelligence is higher, but your physique and looks suffer. You're also popular with the teachers and other nerds. Hated by the jocks, popular people, and misfits.) //
+<label><<radiobutton "$clique" "jocks">></label> The jocks? // (Starting physique is higher, but your intelligence suffers while your looks don't change. Average relationship with teachers. Hated by the nerds and misfits.)
+<label><<radiobutton "$clique" "popular">></label> Perhaps you are one of the popular kids? // (Starting looks are higher, intelligence is lower and you're not that popular with the teachers. Average relationship with the jocks and hated by the nerds and misfits.)
+<label><<radiobutton "$clique" "misfits">></label> Or perhaps you've fallen in with the thugs and gangbangers? // (Starting fight and crime scores will be higher, but everything else will suffer. Hated by other peer groups and teachers.) //
+
+[[Finish->Complete Character Creation]]
