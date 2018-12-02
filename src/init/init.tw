@@ -1,0 +1,49 @@
+:: StoryInit
+<<silently>>
+<<set $purse to false>>
+
+<<set $physique to 4>>
+<<set $intelligence to 4>>
+<<set $looks to 4>>
+<<set $heels to 1>>
+<<set $crime to 0>>
+<<set $fighting to 0>>
+<</silently>>
+
+:: StorySettings
+ifid:6c0048a7-cc9e-49ed-bb1d-26fdcf057e20
+
+:: StoryTitle
+The Girl's Life
+
+:: StoryAuthor
+By: Silky Softworks
+
+:: StorySubtitle
+Version 0.0.3
+
+:: UserScript[script]
+
+
+
+
+:: UserStylesheet[stylesheet]
+
+
+
+
+:: Init
+<h1><center>The Girl's Life</center></h1>
+<center>By: Silky Softworks</center>
+
+<b>WARNING! This game contains content not suitable for people under 18! If you are under 18, delete this game and never look back!</b>
+
+<b>This game is a work of fiction. Any resemblance to actual events and people are entirely coincidental.</b>
+
+Welcom to The Girl's Life!
+
+This is a life sim where you play the role of an 18 year old girl on her last year of high school. The choices you make during your last year of school will reflect who you become after graduation.
+
+Main developer: Mistress Saeko
+
+[[Proceed to character creation.|Create your highschooler]]
