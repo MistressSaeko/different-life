@@ -2,24 +2,34 @@
 <<silently>>
 <<set $purse = false>>
 
-<<set $physique = 4>>
-<<set $intelligence = 4>>
-<<set $looks = 4>>
+<<set $strength = 50>>
+<<set $intelligence = 50>>
+<<set $dexterity = 50>>
+<<set $agility = 50>>
+<<set $appearance = 50>>
 <<set $heels = 1>>
 <<set $crime = 0>>
 <<set $fight = 0>>
-<<set $dom = 4>>
+<<set $dom = 0>>
 <<set $sub = 0>>
 <<set $analskills = 0>>
 <<set $vaginalskills = 0>>
 <<set $oralskills = 0>>
+<<set $arousal = 0>>
+<<set $tired = 0>>
+<<set $hairlength = either("short", "shoulder length", "back length", "butt length")>>
+<<set $haircolor = either("black", "blonde", "red", "pink", "blue", "grey")>>
+<<set $hairstyle = either("pixie", "bob", "ringlets", "drills", "bun", "ponytail", "sidetail", "pigtails")>>
+<<set $breastsize = either("flat", "A cup", "B cup", "C cup", "D cup", "DD cup", "E cup", "F cup", "G cup")>>
+<<set $weather = either("clear", "cloudy", "light rain", "thunderstorm", "snow")>>
+<<set $inhibitions = 100>>
 <</silently>>
 
 :: StorySettings
 ifid:6c0048a7-cc9e-49ed-bb1d-26fdcf057e20
 
 :: StoryTitle
-The Girl's Life
+A Girl's Life
 
 :: StoryAuthor
 By: Silky Softworks
@@ -48,6 +58,8 @@ Version 0.0.3
 
 <b>This game is a work of fiction. Any resemblance to actual events and people are entirely coincidental.</b>
 
+<b>Everyone in this game is 18 years old or higher.</b>
+
 This game contains the following content:
 * Anal
 * Pain
@@ -59,6 +71,8 @@ This game contains the following content:
 * Genital Torture
 * Lactation
 * Pregnancy
+* Piercing
+* Tattooing
 All these will be able to be disabled/enabled at a later date.
 
 Welcom to The Girl's Life!
