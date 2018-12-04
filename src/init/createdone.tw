@@ -2,9 +2,9 @@
 You are <<print $player1_name>> <<print $player2_name>>.
 You have <<print $parents>> and <<print $siblings>>.
 You come from a <<print $status>> family.
-You belong to the <<print $clique>> peer group.
+You might not be the smartest, but you are part of the <<print $clique>> peer group and you might not be the most social or have the toughest attitude - but what you do have are natural good looks, that’s not something you can earn! You blossomed earlier than most girls and the boys took note. After all, you're fairly certain that all of the boys (and even some of the girls) lust after you either openly or secretly. As you got older your looks only improved, and you are often considered one of the best-looking girls in the room wherever you go. In fact, most consider you to be one of - if not THE - most beautiful girl in school.
 
  Is this OK?
  
-[[Yes->StartGame]]
+[[Yes->At Home]]
 [[No->Create your highschooler]]
