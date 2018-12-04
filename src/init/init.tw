@@ -45,7 +45,7 @@ Version 0.0.3
 :: UserStylesheet[stylesheet]
 #story
 {
-	font-family: Merienda;
+	font-family: Merienda, serif;
 }
 
 
@@ -75,7 +75,7 @@ This game contains the following content:
 * Tattooing
 All these will be able to be disabled/enabled at a later date.
 
-Welcom to The Girl's Life!
+Welcom to A Girl's Life!
 
 This is a life sim where you play the role of an 18 year old girl on her last year of high school. The choices you make during your last year of school will reflect who you become after graduation.
 
