@@ -18,7 +18,7 @@
 <<elseif $siblings == "2 brothers">>
 	(Filler.)
 <<elseif $siblings == "1 bro 1 sis">>
-	Filler.)
+	(Filler.)
 <</if>>
 <<if $clique == "popular">>
 	You spent most of your childhood outdoors, playing with other girls and boys. As a result, you're quite healthy. You're also pretty strong verbally, with a keen understanding about how to get yourself out of trouble (or shifting the blame to someone else). You were never very interested in school or sports, however, and are only a sub-par student. Your popularity has negatively impacted your relationship with Leona somewhat, and you are not as close as you once were.

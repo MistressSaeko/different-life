@@ -1,0 +1,17 @@
+:: Main Stylesheet [stylesheet]
+
+#story
+{
+	font-family: Merienda, serif;
+}
+
+#menu ul
+{
+	border-color: #8080ff;
+	border-radius: 5px;
+}
+
+#passages
+{
+	max-width: 40em;
+}
