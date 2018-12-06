@@ -13,5 +13,12 @@
 
 #passages
 {
-	max-width: 40em;
+	max-width: 80%;
+	color: #e0e0e0;
+}
+
+#menu li a
+{
+	border-color: #8080ff;
+	color: #8080ff;
 }
