@@ -7,22 +7,32 @@
 <<set $dexterity = 50>>
 <<set $agility = 50>>
 <<set $appearance = 50>>
-<<set $heels = 1>>
-<<set $crime = 0>>
-<<set $fight = 0>>
-<<set $dom = 0>>
-<<set $sub = 0>>
-<<set $analskills = 0>>
-<<set $vaginalskills = 0>>
-<<set $oralskills = 0>>
+<<set $heels = "E">> /* Max rank: S */
+<<set $crime = "F">> 
+<<set $fight = "F">> /* Max rank: S */
+<<set $dom = 0>> /* Need to figure out how to turn */
+<<set $sub = 0>> /* these into a sliding scale */
+<<set $analskills = "F">> /* Max rank: S */
+<<set $vaginalskills = "F">> /* Max rank: S */
+<<set $oralskills = "F">> /* Max rank: S */
+<<set $danceskill = "F">> /* Max rank: S */
+<<set $speechskill = "F">> /* Max rank: S */
+<<set $modelingskill = "F">> /* Max rank: S */
+<<set $pornskill = "F">>
 <<set $arousal = 0>>
 <<set $tired = 0>>
 <<set $hairlength = either("short", "shoulder length", "back length", "butt length")>>
-<<set $haircolor = either("black", "blonde", "red", "pink", "blue", "grey")>>
-<<set $hairstyle = either("pixie", "bob", "ringlets", "drills", "bun", "ponytail", "sidetail", "pigtails")>>
+<<set $haircolor = either("black", "blonde", "red", "pink", "blue", "grey", "rainbow")>> /* Wouldn't hurt to add more hair colors. */
+<<set $eyecolor = either("amber, blue, brown, green, hazel, pink, violet, grey, rainbow")>> /* Add heterochromatic stuff later. */
+<<set $hairstyle = either("pixie", "bob", "ringlets", "drills", "bun", "ponytail", "sidetail", "pigtails")>> /* Needs more styles. */
 <<set $breastsize = either("flat", "A cup", "B cup", "C cup", "D cup", "DD cup", "E cup", "F cup", "G cup")>>
-<<set $weather = either("clear", "cloudy", "light rain", "thunderstorm", "snow")>>
+<<set $weather = either("clear", "cloudy", "light rain", "thunderstorm", "snow", "severe thunderstorm", "hurricane")>>
+<<set $bodytype = either("anorexic", "thin", "normal", "toned", "plush", "obese", "muscular", "ripped")>>
 <<set $inhibitions = 100>>
+<<set $cashformat = "$">> /* USA! USA! I'm an American and the game takes place in America. So we use American currency, dammit! */
+<<set $bimborating = 0>> /* Max rank: 4 */
+<<set $sadism = "F">>
+<<set $masochism = "F">>
 <</silently>>
 
 :: StorySettings
@@ -51,7 +61,7 @@ Version 0.0.3
 
 <b>WARNING! This game contains content not suitable for people under 18! If you are under 18, delete this game and never look back!</b>
 
-<b>This game is a work of fiction. Any resemblance to actual events and people are entirely coincidental.</b>
+<b>The people and events in this game are a work of fiction. Any resemblance to actual events and people are entirely coincidental.</b>
 
 <b>Everyone in this game is 18 years old or higher.</b>
 
@@ -62,8 +72,9 @@ This game contains the following content:
 * Sadism
 * Masochism
 * Humiliation
-* Incest
-* Rape
+* Sissification
+* Domination
+* Submission
 * Genital Torture
 * Lactation
 * Pregnancy
@@ -81,10 +92,12 @@ Content this game will never have:
 * Vore
 * Scat
 * Guro
+* Non-Consensual
+* Incest
 
-Welcom to A Girl's Life!
+Welcome to A Girl's Life!
 
-This is a life sim where you play the role of an 18 year old girl on her last year of high school. The choices you make during your last year of school will reflect who you become after graduation.
+This is a life sim where you play the role of an 18 year old girl on her last year of high school. The choices you make during your last year of school will reflect who you become after graduation abd beyond.
 
 Main programmer: Mistress Saeko
 
