@@ -9,8 +9,10 @@ All Content is under sole ownership and Copyright 2018 Silky Softworks.
 
 # Contributing
 1. Fork the "dev" branch
-2. Make your changes
-3. Issue a Pull Request
+2. Clone the repo
+3. Make your changes
+4. Push your changes to your repo branch
+5. Issue a Pull Request
 
 *Releases will be made against the "Master" branch.*
 
