@@ -39,6 +39,8 @@ Linux users: ???
 * Scat
 * NTR/Cuckolding
 * Furry (unless they're humans in a fursuit)
+* Non-Consensual
+* Incest
 
 --------
 
