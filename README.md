@@ -23,7 +23,12 @@ Windows users: Clone or download the repo and double click the "compile.bat" fil
 
 Mac users: ???
 
-Linux users: ???
+Linux users: (Instructions from [https://github.com/duplaja])
+Clone or download the repo, open terminal, then `cd`into the root folder for the download.
+
+Make tweego_nix64 (or 32) executable with: `chmod +X devtools/tweeGo/tweego_nix64`
+
+Generate HTML with `./devtools/tweeGo/tweego_nix64 -s "Init" -o "bin/A Girl's Life.html" "src"`
 
 --------
 
