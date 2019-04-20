@@ -16,7 +16,7 @@ All Content is under sole ownership and Copyright 2018 Silky Softworks.
 
 *Releases will be made against the "Master" branch.*
 
-# Building A Girl's Life
+# Building Different Life
 Everything for building the HTML is included in the repo.
 
 Windows users: Clone or download the repo and double click the "compile.bat" file.
