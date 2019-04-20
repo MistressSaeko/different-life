@@ -15,6 +15,9 @@
 			"file": "src/init/init.tw",
 			"settings":
 			{
+<<<<<<< HEAD
+				"buffer_size": 3661,
+=======
 				"buffer_size": 3398,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
@@ -25,6 +28,7 @@
 			"settings":
 			{
 				"buffer_size": 194,
+>>>>>>> refs/remotes/origin/master
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -73,10 +77,23 @@
 			}
 		},
 		{
+			"file": "src/wardrobe.tw",
+			"settings":
+			{
+				"buffer_size": 70,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "README.md",
 			"settings":
 			{
+<<<<<<< HEAD
+				"buffer_size": 3778,
+=======
 				"buffer_size": 4096,
+>>>>>>> refs/remotes/origin/master
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -134,7 +151,20 @@
 	],
 	"file_history":
 	[
+<<<<<<< HEAD
+		"/E/Seagate Backup/MEDEA/Roms/SNES/Zelda 3/randos/spoilers/ALttP - VT_no-glitches-30_normal-inverted_randomized-ganon_NkveNDleym.txt",
+		"/E/Seagate Backup/MEDEA/Roms/SNES/Zelda 3/randos/spoilers/ALttP - VT_no-glitches-30_normal-inverted_randomized-ganon_xry0klqqv5.txt",
+		"/E/Seagate Backup/MEDEA/smut/eraTohoK-master/GUIDES/guide.txt",
+		"/C/Users/April/Downloads/fc-pregmod-pregmod-master/src/uncategorized/pRivalryCapture.tw",
+		"/C/Users/April/Downloads/fc-pregmod-pregmod-master/src/uncategorized/pRivalryVictory.tw",
+		"/C/Users/April/Downloads/fc-pregmod-pregmod-master/src/init/storyInit.tw",
+		"/C/Users/April/Downloads/fc-pregmod-pregmod-master/src/init/setupVars.tw",
+		"/C/Users/April/Downloads/fc-pregmod-pregmod-master/src/uncategorized/pRivalryActions.tw",
+		"/C/Users/April/Downloads/sm.tw",
+		"/C/Users/April/Downloads/fc-pregmod-pregmod-master/devNotes/VersionChangeLog-Premod+LoliMod.txt",
+=======
 		"/C/Users/April/Downloads/padlight/SampleSkin2/skin.ini",
+>>>>>>> refs/remotes/origin/master
 		"/C/Users/April/Downloads/fc-pregmod-pregmod-master/src/uncategorized/reRecruit.tw",
 		"/C/Users/April/Downloads/fc-pregmod-pregmod-master/src/uncategorized/resFailure.tw",
 		"/C/Users/April/Downloads/fc-pregmod-pregmod-master/src/uncategorized/main.tw",
@@ -164,7 +194,6 @@
 		"/C/Users/April/Downloads/Degrees_Of_Pedity-master/Degrees_of_Lewdity.html",
 		"/C/Users/April/Documents/GitHub/the-girls-life/compile.bat",
 		"/C/Users/April/Documents/GitHub/the-girls-life/The Girl's Life.html",
-		"/C/Users/April/Downloads/fc-pregmod-pregmod-master/src/init/storyInit.tw",
 		"/C/Users/April/Documents/GitHub/the-girls-life/src/init/variables.tw",
 		"/C/Users/April/Downloads/Degrees_Of_Pedity-master/src/init/js.tw",
 		"/C/Users/April/Downloads/Degrees_Of_Pedity-master/src/widgets/widgets_npc_combat_init.tw",
@@ -253,6 +282,9 @@
 		"/C/Users/April/Documents/GitHub/eraTouhouReverse-Translation/ERB/SYSTEM/CHARAMAKING/CHARAMAKE_QUESTIONS/0060_勇儀/CHARAMAKE_K60.ERB",
 		"/C/Users/April/Documents/GitHub/eraTouhouReverse-Translation/ERB/SYSTEM/CHARAMAKING/CHARAMAKE_QUESTIONS/0059_パルスィ/CHARAMAKE_K59.ERB",
 		"/C/Users/April/Documents/GitHub/eraTouhouReverse-Translation/ERB/SYSTEM/CHARAMAKING/CHARAMAKE_QUESTIONS/0058_ヤマメ/CHARAMAKE_K58.ERB",
+<<<<<<< HEAD
+		"/C/Users/April/Documents/GitHub/eraTouhouReverse-Translation/ERB/SYSTEM/CHARAMAKING/CHARAMAKE_QUESTIONS/0057_キスメ/CHARAMAKE_K57.ERB"
+=======
 		"/C/Users/April/Documents/GitHub/eraTouhouReverse-Translation/ERB/SYSTEM/CHARAMAKING/CHARAMAKE_QUESTIONS/0057_キスメ/CHARAMAKE_K57.ERB",
 		"/C/Users/April/Documents/GitHub/eraTouhouReverse-Translation/ERB/SYSTEM/CHARAMAKING/CHARAMAKE_QUESTIONS/0056_霖之助/CHARAMAKE_K56_2.ERB",
 		"/C/Users/April/Documents/GitHub/eraTouhouReverse-Translation/ERB/SYSTEM/CHARAMAKING/CHARAMAKE_QUESTIONS/0056_霖之助/CHARAMAKE_K56.ERB",
@@ -262,6 +294,7 @@
 		"/C/Users/April/Documents/GitHub/eraTouhouReverse-Translation/CSV/Item.csv",
 		"/C/Users/April/Documents/GitHub/eraTouhouReverse-Translation/CSV/Abl.csv",
 		"/C/Users/April/Documents/GitHub/eraTouhouReverse-Translation/ERB/SYSTEM/CHARAMAKING/CHARAMAKE_QUESTIONS/0053_豊姫/CHARAMAKE_K53.ERB"
+>>>>>>> refs/remotes/origin/master
 	],
 	"find":
 	{
@@ -302,7 +335,11 @@
 	"groups":
 	[
 		{
+<<<<<<< HEAD
+			"selected": 6,
+=======
 			"selected": 4,
+>>>>>>> refs/remotes/origin/master
 			"sheets":
 			[
 				{
@@ -311,15 +348,24 @@
 					"semi_transient": false,
 					"settings":
 					{
+<<<<<<< HEAD
+						"buffer_size": 3661,
+=======
 						"buffer_size": 3398,
+>>>>>>> refs/remotes/origin/master
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+<<<<<<< HEAD
+								562,
+								562
+=======
 								2030,
 								2030
+>>>>>>> refs/remotes/origin/master
 							]
 						],
 						"settings":
@@ -327,10 +373,14 @@
 							"syntax": "Packages/Twee/Twee.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1188.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+<<<<<<< HEAD
+					"stack_index": 1,
+=======
 					"stack_index": 5,
+>>>>>>> refs/remotes/origin/master
 					"type": "text"
 				},
 				{
@@ -386,7 +436,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+<<<<<<< HEAD
+					"stack_index": 6,
+=======
 					"stack_index": 2,
+>>>>>>> refs/remotes/origin/master
 					"type": "text"
 				},
 				{
@@ -402,8 +456,8 @@
 						"selection":
 						[
 							[
-								237,
-								237
+								239,
+								239
 							]
 						],
 						"settings":
@@ -414,7 +468,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+<<<<<<< HEAD
+					"stack_index": 5,
+=======
 					"stack_index": 1,
+>>>>>>> refs/remotes/origin/master
 					"type": "text"
 				},
 				{
@@ -439,10 +497,14 @@
 							"syntax": "Packages/Twee/Twee.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 199.0,
 						"zoom_level": 1.0
 					},
+<<<<<<< HEAD
+					"stack_index": 4,
+=======
 					"stack_index": 0,
+>>>>>>> refs/remotes/origin/master
 					"type": "text"
 				},
 				{
@@ -471,7 +533,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+<<<<<<< HEAD
+					"stack_index": 3,
+=======
 					"stack_index": 4,
+>>>>>>> refs/remotes/origin/master
 					"type": "text"
 				},
 				{
@@ -499,24 +565,68 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+<<<<<<< HEAD
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "README.md",
+					"buffer": 6,
+					"file": "src/wardrobe.tw",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4096,
+						"buffer_size": 70,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Twee/Twee.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+=======
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+>>>>>>> refs/remotes/origin/master
+					"buffer": 7,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+<<<<<<< HEAD
+						"buffer_size": 3778,
+=======
+						"buffer_size": 4096,
+>>>>>>> refs/remotes/origin/master
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+<<<<<<< HEAD
+								314,
+								314
+=======
 								0,
 								0
+>>>>>>> refs/remotes/origin/master
 							]
 						],
 						"settings":

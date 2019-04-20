@@ -7,6 +7,20 @@
 <<set $dexterity = 50>>
 <<set $agility = 50>>
 <<set $appearance = 50>>
+<<<<<<< HEAD
+<<set $heels = either("F, E, D, C, B, A, S")>> /* Max rank: S */
+<<set $crime = either("F, E, D, C, B, A, S")>> 
+<<set $fight = either("F, E, D, C, B, A, S")>> /* Max rank: S */
+<<set $subdom = either("-100, 100")>> /* -100 = Submissive. 100 = Dominant. */
+<<set $sexuality = either("heterosexual, homosexual")>>
+<<set $analskills = either("F, E, D, C, B, A, S")>> /* Max rank: S */
+<<set $vaginalskills = either("F, E, D, C, B, A, S")>> /* Max rank: S */
+<<set $oralskills = either("F, E, D, C, B, A, S")>> /* Max rank: S */
+<<set $danceskill = either("F, E, D, C, B, A, S")>> /* Max rank: S */
+<<set $speechskill = either("F, E, D, C, B, A, S")>> /* Max rank: S */
+<<set $modelingskill = either("F, E, D, C, B, A, S")>> /* Max rank: S */
+<<set $pornskill = either("F, E, D, C, B, A, S")>>
+=======
 <<set $heels = "E">> /* Max rank: S */
 <<set $crime = "F">> 
 <<set $fight = "F">> /* Max rank: S */
@@ -18,16 +32,23 @@
 <<set $speechskill = "F">> /* Max rank: S */
 <<set $modelingskill = "F">> /* Max rank: S */
 <<set $pornskill = "F">>
+>>>>>>> refs/remotes/origin/master
 <<set $arousal = 0>>
-<<set $tired = 0>>
+<<set $fatigue = 0>>
 <<set $hairlength = either("short", "shoulder length", "back length", "butt length")>>
 <<set $haircolor = either("black", "blonde", "red", "pink", "blue", "grey", "rainbow")>> /* Wouldn't hurt to add more hair colors. */
-<<set $eyecolor = either("amber, blue, brown, green, hazel, pink, violet, grey, rainbow")>> /* Add heterochromatic stuff later. */
+<<set $eyecolor = either("amber, blue, brown, green, hazel, pink, violet, grey, rainbow")>> /* Add heterochromia stuff later. */
 <<set $hairstyle = either("pixie", "bob", "ringlets", "drills", "bun", "ponytail", "sidetail", "pigtails")>> /* Needs more styles. */
 <<set $breastsize = either("flat", "A cup", "B cup", "C cup", "D cup", "DD cup", "E cup", "F cup", "G cup")>>
 <<set $weather = either("clear", "cloudy", "light rain", "thunderstorm", "snow", "severe thunderstorm", "hurricane", "blizzard")>>
 <<set $bodytype = either("anorexic", "thin", "normal", "toned", "plush", "obese", "muscular", "ripped")>>
 <<set $inhibitions = 100>>
+<<<<<<< HEAD
+<<set $cashformat = "$">> /* Game takes place in America, so American currency. */
+<<set $bimborating = 0>> /* Max rank: 4 */
+<<set $sadism = either("F, E, D, C, B, A, S")>>
+<<set $masochism = either("F, E, D, C, B, A, S")>>
+=======
 <<set $cashformat = "$">> /* Game takes place in America. So, American currency. */
 <<set $bimborating = 0>> /* Max rank: 4 */
 <<set $sadism = "F">>
@@ -35,6 +56,7 @@
 <<set $month = either("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December">>
 <<set $day = either("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31")>>
 <<set $dayofweek = either ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday")>>
+>>>>>>> refs/remotes/origin/master
 <</silently>>
 
 :: StorySettings
