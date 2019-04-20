@@ -28,7 +28,7 @@ Clone or download the repo, open terminal, then `cd`into the root folder for the
 
 Make tweego_nix64 (or 32) executable with: `chmod +X devtools/tweeGo/tweego_nix64`
 
-Generate HTML with `./devtools/tweeGo/tweego_nix64 -s "Init" -o "bin/A Girl's Life.html" "src"`
+Generate HTML with `./devtools/tweeGo/tweego_nix64 -s "Init" -o "bin/Different Life.html" "src"`
 
 --------
 
@@ -53,7 +53,7 @@ Generate HTML with `./devtools/tweeGo/tweego_nix64 -s "Init" -o "bin/A Girl's Li
 
 **Definitions:**
 
-"Project" shall be defined as the source code and/or modifications/alterations comprising the software package known as "A Girl's Life"; its assets, source code, Content, and all associated repositories, tools, configuration, and archives.
+"Project" shall be defined as the source code and/or modifications/alterations comprising the software package known as "Different Life"; its assets, source code, Content, and all associated repositories, tools, configuration, and archives.
 
 "Binaries" refers to the executable produced from the source code and/or modified/altered source code.
 
