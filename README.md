@@ -1,4 +1,4 @@
-# A Girl's Life
+#Different Life
 ----
 
 Graphical and text based life sim game (Warning: 18+ content included!) made in Twine.
