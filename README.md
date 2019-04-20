@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Different Life
-=======
-#Different Life
->>>>>>> refs/remotes/origin/master
 ----
 
 Graphical and text based life sim game (Warning: 18+ content included!) made in Twine.
