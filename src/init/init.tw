@@ -50,6 +50,17 @@ By: Silky Softworks
 :: StorySubtitle
 Version 0.0.3
 
+:: StoryCaption
+Name: <<print $player1_name>> <<print $player2_name>>
+
+:: StoryMenu
+[[Stats->Vitals]]
+[[Social->Social Status]]
+/*[[Options->Configure]]*/
+
+
+:: StoryShare
+[[Twitter->https://www.twitter.com/SilkySoftworks]]
 
 :: Init
 <h1><center>Different Life</center></h1>
