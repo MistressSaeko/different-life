@@ -22,3 +22,177 @@
 	border-color: #8080ff;
 	color: #8080ff;
 }
+
+#avatar02
+{
+	top: 25px;
+	left: 20px;
+	position: absolute;
+	height: 500px;
+	width: 230px;
+}
+
+div.player
+{
+	color: #ffffff;
+	border-radius: 5px;
+	background-color: #090909;
+	border: 2px solid #ffffff;
+	padding: 8px 8px 8px 8px;
+	box-shadow: 5px 5px 3px Black;
+}
+
+div.leona
+{
+	color: #c002ff;
+	border-radius: 5px;
+	background-color: #212121;
+	border: 2px solid #ffffff;
+	padding: 8px 8px 8px 8px;
+	box-shadow: 5px 5px 3px Black;
+}
+
+.avatar
+{
+   position: absolute;  top: 20px;  left: 0px;
+}
+.avatar img
+{
+	height: 850px
+}
+.back 
+{
+	z-index: 0;
+}
+.av01 
+{
+	z-index: 1;
+}
+.av02 
+{
+	z-index: 2;
+}
+.av03 
+{
+	z-index: 3;
+}
+.av04 
+{
+	z-index: 4;
+}
+.av05 
+{
+	z-index: 5;
+}
+.av06 
+{
+	z-index: 6;
+}
+.av07 
+{
+	z-index: 7;
+}
+.av08 
+{
+	z-index: 8;
+}
+.av09 
+{
+	z-index: 9;
+}
+.av10 
+{
+	z-index: 10;
+}
+.av11 
+{
+	z-index: 11;
+}
+.av12 
+{
+	z-index: 12;
+}
+.av13 
+{
+	z-index: 13;
+}
+.av14 
+{
+	z-index: 14;
+}
+.av15 
+{
+	z-index: 15;
+}
+.av16 
+{
+	z-index: 16;
+}
+.av17 
+{
+	z-index: 17;
+}
+.av18 
+{
+	z-index: 18;
+}
+.av19 
+{
+	z-index: 19;
+}
+.av20 
+{
+	z-index: 20;
+}
+.av21 
+{
+	z-index: 21;
+}
+.av22 
+{
+	z-index: 22;
+}
+.av23 
+{
+	z-index: 23;
+}
+.av24 
+{
+	z-index: 24;
+}
+.av25 
+{
+	z-index: 25;
+}
+.av26 
+{
+	z-index: 26;
+}
+.av27 
+{
+	z-index: 27;
+}
+.av28 
+{
+	z-index: 28;
+}
+.av29 
+{
+	z-index: 29;
+}
+.front 
+{
+	z-index: 30;
+}
+
+.avatar02 
+{
+	position: absolute;
+	top: 25px;
+	left: 10px;
+}
+.avatar02 img 
+{
+	width: 230px;
+	height: 500px;
+}
