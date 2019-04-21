@@ -18,7 +18,7 @@
 <<set $speechskill = either("F, E, D, C, B, A, S")>> /* Max rank: S */
 <<set $modelingskill = either("F, E, D, C, B, A, S")>> /* Max rank: S */
 <<set $pornskill = either("F, E, D, C, B, A, S")>>
-<<set $will = either("-50, 50")>> /* -50 = Submissive, 50 = Dominant. */
+<<set $will = 0>> /* -100 = Submissive, 100 = Dominant. */
 <<set $arousal = 0>>
 <<set $fatigue = 0>>
 <<set $hairlength = either("short", "shoulder length", "back length", "butt length")>>
@@ -52,6 +52,38 @@ Version 0.0.3
 
 :: StoryCaption
 Name: <<print $player1_name>> <<print $player2_name>>
+<table>
+<tr>
+<td>Strength:</td>
+<td><meter @value="$strength" min="0" max="100"></meter></td>
+<td><<print $strength>></td>
+</tr>
+<tr>
+<td>Intelligence:</td>
+<td><meter @value="$intelligence" min="0" max="100"></meter></td>
+<td><<print $intelligence>></td>
+</tr>
+<tr>
+<td>Dexterity:</td>
+<td><meter @value="$dexterity" min="0" max="100"></meter></td>
+<td><<print $dexterity>></td>
+</tr>
+<tr>
+<td>Agility:</td>
+<meter @value="$agility" min="0" max="100"></meter>
+<td><<print $agility>></td>
+</tr>
+<tr>
+<td>Appearance:</td>
+<td><meter @value="$appearance" min="0" max="100"></meter></td>
+<td><<print $appearance>></td>
+</tr>
+<tr>
+<td>Will:</td>
+<td><meter @value="$willpower" min="-50" max="50"></meter></td>
+<td><<if $will lt 0>> Submissive <<elseif $will == 0>> Neutral <<elseif $will gt 0>> Dominant <</if>></td>
+</tr>
+</table>
 
 :: StoryMenu
 [[Stats->Vitals]]
