@@ -1,8 +1,9 @@
 :: At Home
+
 You are awakened from a sound sleep by someone shaking you.
-"Time to get up <<print $player1_name>>!"
-"Just a few more minutes mom."
-"No. You start school next week. You should get in the habit of waking up early to take care of morning business."
-"Ugh. Fine!"
+@@.parent1;Time to get up <<print $player1_name>>!@@
+@@.player;Just a few more minutes mom.@@
+@@.parent1;No. Summer's almost over. You start school next week. You should get in the habit of waking up early to take care of morning business.@@
+@@.player;Ugh. Fine!@@
 You crawl out of bed and look at your alarm clock.
-"6 AM. It's too early for this"
+@@.player;"6 AM. It's too early for this."@@

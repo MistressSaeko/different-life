@@ -1,7 +1,8 @@
 :: Gender Choice
 
 Do you wish to play as a
-<label><<radiobutton "$gender" "XY">> Male?</label>
-<label><<radiobutton "$gender" "XX">> Female?</label>
+
+<label><<radiobutton "$gender" "male" checked>> Male</label>
+<label><<radiobutton "$gender" "female" checked>> Female</label>
 
 [[Continue->Create your highschooler]]
