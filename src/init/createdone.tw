@@ -1,6 +1,6 @@
 :: Complete Character Creation
 <<if $parents == "2 Moms">>
-	You were adopted by 2 married women who couldn't bear to let an adorable baby go without a family. They gave you the name <<print $player1_name>> <<print $player2_name>>. You were doted on and treated like a <<if $gender == "XY">> prince <<else>> princess <</if>> and never went without love and attention
+	You were adopted by 2 married women who couldn't bear to let an adorable baby go without a family. They gave you the name <<print $player1_name>> <<print $player2_name>>. You were doted on and treated like a <<if $gender == "male">> prince <<else>> princess <</if>> and never went without love and attention
 <<elseif $parents == "2 Dads">>
 	(Filler text because I can't write worth a damn.)
 <<elseif $parents == "1 mom 1 dad">>

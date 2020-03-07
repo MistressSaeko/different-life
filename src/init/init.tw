@@ -36,10 +36,13 @@
 <<set $month = either("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December">>
 <<set $day = either("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31")>>
 <<set $dayofweek = either ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday")>>
+<<set $period = either("Early Morning", "Morning", "Late Morning", "Noon", "Early Afternoon", "Afternoon", "Late Afternoon", "Evening", "Night")
 <</silently>>
 
 :: StorySettings
 ifid:6c0048a7-cc9e-49ed-bb1d-26fdcf057e20
+jquery:on
+exitprompt:on
 
 :: StoryTitle
 Different Life
@@ -80,8 +83,8 @@ Name: <<print $player1_name>> <<print $player2_name>>
 </tr>
 <tr>
 <td>Will:</td>
-<td><meter @value="$willpower" min="-50" max="50"></meter></td>
-<td><<if $will lt 0>> Submissive <<elseif $will == 0>> Neutral <<elseif $will gt 0>> Dominant <</if>></td>
+<td><meter @value="$willpower" min="-100" max="100"></meter></td>
+<td><<if $will lt 0>> Submissive <<elseif $will == 0>> Neutral <<else>> Dominant <</if>></td>
 </tr>
 </table>
 
@@ -117,6 +120,7 @@ This game contains the following content:
 * Tattooing
 * M/M, M/F, F/F, F/F/F, M/M/M, and any variation thereof.
 * Transwomen/men
+* Orgasm Management (Teasing, Edging, and Denial)
 All these will be able to be disabled/enabled at a later date.
 
 Content this game will never have:
@@ -132,11 +136,11 @@ Content this game will never have:
 
 Welcome to Different Life!
 
-This is a life sim where you play the role of an 18 year old on their last year of high school. The choices you make during your last year of school will reflect who you become after graduation abd beyond.
+This is a life sim where you play the role of an 18 year old on their last year of high school. The choices you make during your last year of school will reflect who you become after graduation and beyond.
 
 Main programmer: Mistress Saeko
 
-[[Proceed to character creation.->Gender Choice]]
+[[Configure Options.->ConfigurationOptions]]
 
 :: Story Includes
 charcreate.tw
@@ -145,3 +149,4 @@ mainStyleSheet.tw
 mainJS.tw
 createdone.tw
 genderchoice.tw
+config.tw
