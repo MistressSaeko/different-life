@@ -1,5 +1,5 @@
 :: Create your highschooler
-You were born on the month of June in the year 2000. Your parents named you:
+You were born on the month of June 18 years ago. Your parents named you:
 First name: <label><<textbox "$player1_name" "First Name">></label>
 Last name: <label><<textbox "$player2_name" "Last Name">></label>
 

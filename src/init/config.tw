@@ -3,39 +3,39 @@
 <<silently>>
 <<set $orgasmcontrol = true>>
 <<set $sissification = true>>
-/*<<set $noncon = false>>*/
-<<set  $analplay = true>>
+<<set $analplay = true>>
 <<set $BDSM = true>>
 <<set $cbt = true>>
 <<set $lactation = true>>
 <<set $feminization = true>>
-/*<<set $incest = false>>*/
 <<set $painplay = true>>
 <<set $sph = true>>
 <<set $piercing = true>>
 <<set $tattooing = true>>
 <<set $trans = true>>
+<<set $latex = true>>
+<<set $leather = true>>
+<<set $silk = true>>
+<<set $feet = true>>
 <</silently>>
 
 Please enable or disable content you wish/do not wish to see.
 * <label><<checkbox "$orgasmcontrol" false true checked>> Orgasm Control</label>
 * <label><<checkbox "$sissification" false true checked>> Sissification</label>
-/*
-* <label><<checkbox "$orgasmcontrol" false true checked>> Non-consensual Sex</label>
-*/
 * <label><<checkbox "$analplay" false true checked>> Anal Content</label>
 * <label><<checkbox "$BDSM" false true checked>> BDSM content</label>
 * <label><<checkbox "$cbt" false true checked>> Genital Torture</label>
 * <label><<checkbox "$lactation" false true checked>> Lactation</label>
 * <label><<checkbox "$feminization" false true checked>> Feminization</label>
-/*
-* <label><<checkbox "$incest" false true checked>> Incest</label>
-*/
 * <label><<checkbox "$painplay" false true checked>> Pain Play</label>
-* <label><<checkbox "$sph" false true checked>> Humilitaion</label>
+* <label><<checkbox "$sph" false true checked>> Humiliation</label>
 * <label><<checkbox "$piercing" false true checked>> Piercing</label>
 * <label><<checkbox "$orgasmcontrol" false true checked>> Tattooing</label>
 * <label><<checkbox "$trans" false true checked>> Transgender Content</label>
+* <label><<checkbox "$latex" false true checked>> Latex Clothing Fetish</label>
+* <label><<checkbox "$leather" false true checked>> Leather Clothing Fetish</label>
+* <label><<checkbox "$silk" false true checked>> Frilly Clothing (Silk, Satin, etc.) Fetish</label>
+* <label><<checkbox "$feet" false true checked>> Feet Content (Worship, Boots, etc.)</label>
 
 
 [[Save and continue to character creation.->Gender Choice]]

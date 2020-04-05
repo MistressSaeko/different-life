@@ -6,6 +6,7 @@
 <<elseif $parents == "1 mom 1 dad">>
 	(Wee. More filler text.)
 <</if>>
+
 <<if $status == "rich">>
 	(Filler.)
 <<elseif $status == "middle">>
@@ -13,6 +14,7 @@
 <<elseif $status == "poor">>
 	(Filler.)
 <</if>>
+
 <<if $siblings == "2 sisters">>
 	(Filler.)
 <<elseif $siblings == "2 brothers">>
@@ -20,23 +22,17 @@
 <<elseif $siblings == "1 bro 1 sis">>
 	(Filler.)
 <</if>>
+
 <<if $clique == "popular">>
-	You spent most of your childhood outdoors, playing with other girls and boys. As a result, you're quite healthy. You're also pretty strong verbally, with a keen understanding about how to get yourself out of trouble (or shifting the blame to someone else). You were never very interested in school or sports, however, and are only a sub-par student. Your popularity has negatively impacted your relationship with Leona somewhat, and you are not as close as you once were.
-
+	(Filler.)
 <<elseif $clique == "nerds">>
-	While you were growing up, you spent virtually all of your free time at home, pursuing various cerebral pursuits. These might have included reading comics, fantasy or sci-fi books, learning about chess or computers, or playing cards, board games, or RPGs with the other nerds in addition to faithfully going to school. While you have gained a huge amount of knowledge from this, your lack of interest in exercising as a child has left your body a little frail.
-	The long nights of trying to read in poor light have taken a toll on your eyesight as well, and you now need glasses to be able to read. Your cerebral pursuits have also had somewhat of a negative impact on your friendship with Leona: as you grew up, she became a gangbanger and the two of you slowly started hanging out less and less, although you still consider each other to be friends. On the plus side, doing well in school has made your parents happy.
-
+	(Yep. You guessed it. More filler.)
 <<elseif $clique == "jocks">>
-	While you were growing up, you spent virtually all of your free time outdoors. You loved playing sports, running, biking, horseback riding, hiking, and most other outdoor activities. This has kept you in fairly good shape as well as decently socially active in a variety of team sports over the years. Doing this, however, negatively impacted your friendship with Leona somewhat. As you grew up, she became a gangbanger and the two of you slowly started hanging out less and less, though you still consider each other to be friends.
-
+	(Yet more filler.)
 <<elseif $clique == "thugs">>
-	You spent most of your childhood outdoors, playing with the other girls and boys. As a result, you're quite healthy. As you got older you lost any interest you might have once had with fitting in - now you do your own thing, and you're ready to tell anyone where they can stick it if they have a problem with that.
-	As you and Leona walked a similar path, your bond of friendship only deepened. This has had some repercussions on your school performance; you're a sub-par student. It has also had some less enjoyable consequences leading you into more than your fair share of fights, into all sorts of problems at home, landing you in trouble and often punished at school, and even into a few run-ins with the local police.
-	
+	(Woop woop!))	
 <<elseif $clique == "losers">>
-	You never really fit in. You're just one of those individuals who, by choice or circumstance, never really clicked with the other kids. As you got older things only got worse, and now you are seen as an outcast. This breaks one of the most important social rules among your peers, and you are now considered in the same vein as sluts, losers, and the like.
-	Being an outcast has also had a somewhat negative impact on your friendship with Leona. As you grew up, she became a gangbanger and the two of you slowly started hanging out less and less, although you still consider each other to be friends - if just barely. You have no other real friends, and you get bullied and made fun of all the time.
+	(If you like filler text, you're playing the right game.)
 <</if>>
  Is this OK?
  
